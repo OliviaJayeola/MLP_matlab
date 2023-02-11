@@ -6,3 +6,4 @@ This was coursework for a neural networks module where I was introduced to the t
 note: I was given different input and weight values to the ones in this pdf
 
 [NNCW2022 (2).pdf](https://github.com/OliviaJayeola/MLP_matlab/files/10714176/NNCW2022.2.pdf)
+![image]()
